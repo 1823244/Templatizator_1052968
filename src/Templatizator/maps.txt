@@ -1,2 +1,2 @@
-﻿Form\Форма\Форма.bsl-->3bfde5fe-fccb-453a-9017-0d819a8b5f0c.0 (752, 901)
+﻿Form\Форма\Форма.bsl-->3bfde5fe-fccb-453a-9017-0d819a8b5f0c.0 (706, 833)
 Макеты\TemplateForTest.txt-->b2f38836-a645-48e1-ac6e-0f36545f1182.0

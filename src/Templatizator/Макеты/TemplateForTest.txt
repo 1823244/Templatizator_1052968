@@ -167,7 +167,7 @@
 	<p></p>
 	<p></p>
 	<p></p>
-	<p>Разработка https://infostart.ru/profile/19400, 2019 г. </p>
+	<p style="font-size: 50%;">Разработка https://infostart.ru/profile/19400, 2019 г. </p>
 
 	
 	</body>
