@@ -135,7 +135,7 @@ Creating HTML by templates in Django/Flask style
 
 ### Циклы.
 
-Цикл Для Каждого Элемент Из Коллекция Цикл  
+#### Цикл Для Каждого Элемент Из Коллекция Цикл  
 
 Выполняет обход коллекции  
 ```
@@ -187,7 +187,7 @@ Creating HTML by templates in Django/Flask style
 ]
 }
 ```
-Цикл Для Счетчик = 1 по 10 Цикл  
+#### Цикл Для Счетчик = 1 по 10 Цикл  
 ```
 {% For count = 0 To 4 Do %}
 {% EndDo %}
@@ -218,8 +218,8 @@ JSON-фрагмент массива
 Работа с типом «Дата».  
 
 Чтение JSON предполагает знание о том, какие поля являются датой. Это следует из описания метода глобального контекста ReadJSON(). Для правильного чтения дат служат следующие параметры этого метода:  
-•	PropertiesWithDateValuesNames
-•	ExpectedDateFormat
+•	PropertiesWithDateValuesNames  
+•	ExpectedDateFormat  
 
 Преобразование JSON в структуру происходит в методе GetTemplateDataFromJSON().  
 
